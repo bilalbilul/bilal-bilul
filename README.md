@@ -42,6 +42,7 @@ I am Quality Engineer graduate from Alterra Academy. I'm skilled with creating t
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 ![Katalon](https://img.shields.io/badge/-Katalon-000000?style=flat&logo=katalon)
 ![VisualStudioCode](https://img.shields.io/badge/-Visual%20Studio-000000?style=flat&logo=visual%20studio%20code)
+![SublimeText](https://img.shields.io/badge/-Sublime%20Text-000000?style=flat&logo=sublime%20text)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
 ![Jmeter](https://img.shields.io/badge/-JMeter-000000?style=flat&logo=apache%20jmeter)
 ![MySql](https://img.shields.io/badge/-MySql-000000?style=flat&logo=mysql) <br />
