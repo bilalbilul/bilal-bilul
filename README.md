@@ -48,9 +48,7 @@ I am Quality Engineer graduate from Alterra Academy. I'm skilled with creating t
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
 <img align="left" alt="Bilal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bilalbilul&show_icons=true" />    &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalbilul)
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalbilul&" alt="bilal-bilul" /></p>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalbilul)
