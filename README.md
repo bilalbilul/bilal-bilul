@@ -10,7 +10,7 @@
 I am Quality Engineer graduate from Alterra Academy. I'm skilled with creating testing documentation, manually and automatically test websites and APIs, and use the tools I learned about: Postman, JMeter, Appium, Selenium, and Serenity BDD throughout my three months of study at Alterra Academy. With these skills, I am highly interested in pursuing a career as a quality engineer in tech industries. 👍
 
 
-- 🌱 I’m currently learning Testing Automation | App Development | Data Science | Cyber Security |
+- 🌱 I’m currently learning Testing Automation | App Development | Data Science | Cyber Security
 - 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about Web or Mobile Testing. I will try to help you as much as I can.
 - ⚡ Quote: Failure is not a bad thing, it just makes you more know yourself, keep swimming~ <img src="https://media.giphy.com/media/yYr7UP843541df415l/giphy.gif" width="30">
