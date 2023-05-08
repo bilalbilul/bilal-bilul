@@ -53,8 +53,13 @@ I am Quality Engineer graduate from Alterra Academy. I'm skilled with creating t
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
-<img align="left" alt="Bilal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bilalbilul&show_icons=true" /> <br />  
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalbilul" /><br />
+<img align="left" alt="Bilal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bilalbilul&theme=blueberry&show_icons=true" /> <br />  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalbilul&theme=blueberry" /><br />
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalbilul&" alt="bilal-bilul" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalbilul&theme=blueberry" alt="bilal-bilul" />
+
+----
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
