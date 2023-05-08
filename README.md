@@ -13,7 +13,7 @@ I am Quality Engineer graduate from Alterra Academy. I'm skilled with creating t
 - 🌱 I’m currently learning Testing Automation | App Development | Data Science | Cyber Security
 - 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about Web or Mobile Testing. I will try to help you as much as I can.
-- ⚡ Quote: Failure is not a bad thing, it just makes you more know yourself, keep swimming~ <img src="https://media.giphy.com/media/yYr7UP843541df415l/giphy.gif" width="30">
+- ⚡ Quote: Failure is not a bad thing, it just makes you more know yourself, keep swimming~ <img src="https://media.giphy.com/media/yYr7UP843541df415l/giphy.gif" width="35">
 - 📫 How to reach me: <br />
   [![GitHub followers](https://img.shields.io/badge/-bilalbilul-grey?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bilalbilul)](https://github.com/bilalbilul)  [![Linkedin Badge](https://img.shields.io/badge/-Muhammad_Bilal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-bilal-a99609260/)](https://www.linkedin.com/in/muhammad-bilal-a99609260/)  [![Gmail Badge](https://img.shields.io/badge/bilalbilul123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aman.atg001@gmail.com)](bilalbilul123@gmail.com)  [![Twitter Badge](https://img.shields.io/badge/-@bilulism-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bilulism)](https://twitter.com/bilulism) [![Instagram Badge](https://img.shields.io/badge/-@mantap.man-DC143C?style=flat-square&labelColor=DC143C&logo=instagram&logoColor=white&link=https://www.instagram.com/mantap.man/?igshid=ZGUzMzM3NWJiOQ%3D%3D)](https://www.instagram.com/mantap.man/?igshid=ZGUzMzM3NWJiOQ%3D%3D)
 
@@ -53,13 +53,8 @@ I am Quality Engineer graduate from Alterra Academy. I'm skilled with creating t
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
-<img align="left" alt="Bilal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bilalbilul&theme=blueberry&show_icons=true" /> <br />  
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalbilul&theme=blueberry" /><br />
+<p><img align="left" alt="Bilal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bilalbilul&theme=blueberry&show_icons=true" /><br />  
+  
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalbilul&theme=blueberry" /><br />
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalbilul&theme=blueberry" alt="bilal-bilul" />
-
-----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalbilul&theme=blueberry" alt="bilal-bilul" /><br />
