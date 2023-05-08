@@ -1,6 +1,7 @@
 # bilal-bilul <img src="https://media.giphy.com/media/hBMqZg1ObXUOI/giphy.gif" width="50px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalbilul&label=Profile%20views&color=0e75b6&style=flat" alt="bilal-bilul" /> </p>
+[![HitCount](http://hits.dwyl.com/bilalbilul/bilalbilul.svg)](http://hits.dwyl.com/bilalbilul/bilalbilul)
+<img src="https://komarev.com/ghpvc/?username=bilalbilul&label=Profile%20views&color=0e75b6&style=flat" alt="bilal-bilul" />
 
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   
