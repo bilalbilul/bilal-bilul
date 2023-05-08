@@ -22,7 +22,6 @@ I am Quality Engineer graduate from Alterra Academy. I'm skilled with creating t
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Gherkin](https://img.shields.io/badge/-Gherkin%20Syntax-000000?style=flat&logo=gherkin%20syntax)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
