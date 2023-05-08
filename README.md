@@ -22,6 +22,7 @@ I am Quality Engineer graduate from Alterra Academy. I'm skilled with creating t
 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Gherkin](https://img.shields.io/badge/-Gherkin%20Syntax-000000?style=flat&logo=gherkin%20syntax)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -35,6 +36,7 @@ I am Quality Engineer graduate from Alterra Academy. I'm skilled with creating t
 ![Maven](https://img.shields.io/badge/-Apache%20Maven-000000?style=flat&logo=apache%20maven)
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
+![Cucumber](https://img.shields.io/badge/-Cucumber-000000?style=flat&logo=cucumber)
 ![Jmeter](https://img.shields.io/badge/-Apache%20Jmeter-000000?style=flat&logo=apache%20jmeter)
 ![MySql](https://img.shields.io/badge/-MySql-000000?style=flat&logo=mysql)
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
