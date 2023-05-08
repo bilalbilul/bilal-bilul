@@ -33,7 +33,7 @@ I am Quality Engineer graduate from Alterra Academy. I'm skilled with creating t
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
-![Maven](https://img.shields.io/badge/-Apache%20Maven-000000?style=flat&logo=apache%20maven)
+![Maven](https://img.shields.io/badge/-Maven-000000?style=flat&logo=apache%20maven)
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-000000?style=flat&logo=cucumber)
