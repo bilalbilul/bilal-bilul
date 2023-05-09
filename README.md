@@ -7,7 +7,7 @@
   
 :heart: Programming | :black_heart: Soccer | :blue_heart: Anime
   
-I am Quality Engineer graduate from Alterra Academy. I'm skilled with creating testing documentation, manually and automatically test websites and APIs, and use the tools I learned about: Postman, JMeter, Appium, Selenium, and Serenity BDD throughout my three months of study at Alterra Academy. With these skills, I am highly interested in pursuing a career as a quality engineer in tech industries. 👍
+I am Quality Engineer graduate from Alterra Academy. Skilled in creating test documentation, manually and automatically test websites and APIs, and use the tools I learned about: Postman, JMeter, Appium, Selenium, and Serenity BDD throughout my three months of study at Alterra Academy. With these skills, I am highly interested in pursuing a career as a quality engineer in tech industries. 👍
 
 
 - 🌱 I’m currently learning Testing Automation | App Development | Data Science | Cyber Security
